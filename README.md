@@ -50,3 +50,13 @@ ECC精配准 - 使用OpenCV的ECC算法进行像素级精确配准
 卫星影像镶嵌
 
 精确制图与测量
+
+
+代码中修改路径：
+    ref_img_path = r"H:\1CD_dataset\001\GF2_PMS2_E114.8_N22.8_20231125_L1A13495975001\GF2_PMS2_E114.8_N22.8_20231125_L1A13495975001-MSS2.tiff"
+    
+    mov_img_path = r"H:\0ZJU_CD\jz\GF2_PMS2_E114.8_N22.8_20220403_L1A0006387395\GF2_PMS2_E114.8_N22.8_20220403_L1A0006387395-MSS2.tiff"
+    
+    output_path = "aligned_result.tif"
+    
+
