@@ -60,4 +60,12 @@ ECC精配准 - 使用OpenCV的ECC算法进行像素级精确配准
     
     output_path = "aligned_result.tif"
     
+引用
+如果GeoAlignPy对您的研究有帮助，请考虑引用:
 
+@software{geoalignpy2025,
+  author = {Xiunan Li},
+  title = {GeoAlignPy: A Python Tool for High-Precision Remote Sensing Image Registration with Geographic Reference Preservation},
+  year = {2025},
+  url = {https://github.com/smartRemoteSensing/GeoAlignPy}
+}
